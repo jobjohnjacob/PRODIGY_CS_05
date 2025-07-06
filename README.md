@@ -12,7 +12,7 @@ Duration: 15TH JUNE 2025 to 15TH JULY 2025
 
 OVERVIEW OF THE PROJECT
 
-PROJECT: Network Packet Analysis
+PROJECT: Network Packet Analyzer
 
 ---
 
